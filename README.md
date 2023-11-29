@@ -1,25 +1,99 @@
-### Mashiyyat Villasenor Delos Santos
-***Full Stack Developer*** - Vue, React, Laravel, GraphQL, Typescript
+## Mashiyyat Villasenor Delos Santos
+####Full Stack Developer, Graphic Artist, Illustrator
 
-> Hey there! Ready to meet a JavaScript aficionado who loves creating
-> amazing web applications? Look no further! With expertise in Vue.js
-> and Laravel, I'm all about building dynamic and interactive online
-> experiences. Whether it's crafting stunning front-end designs or
-> powering robust back-end functionalities, I've got you covered. Let's
-> team up and turn your web development dreams into a reality. Get in
-> touch today, and let's embark on an exciting journey of code and
-> creativity!
+> Hey there! Ready to meet a JavaScript aficionado who loves creating amazing web applications? Look no further! With expertise in Vue.js and Laravel, I'm all about building dynamic and interactive online experiences. Whether it's crafting stunning front-end designs or powering robust back-end functionalities, I've got you covered. Let's team up and turn your web development dreams into a reality. Get in touch today, and let's embark on an exciting journey of code and creativity!
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashiyyat-delos-santos-61264924a/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mashu_pikazo)
-[![facebook](https://img.shields.io/badge/facebook-0A66C2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mashu.pikazo)
+#### Language and Tools
+<div style="display: flex">
 
-## Language and Tools
+<a href="https://nuxt.com/">
+	<img src="https://nuxt.com/assets/design-kit/icon-green.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
 
-<p align="left">
- 
-<a href="https://laravel.com/" target="_blank"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/></a><a href="https://www.lighthouse-php.com/" target="_blank"> <img src="https://lighthouse-php.com/logo.svg" alt="lighthouse" width="40" height="40"/> </a><a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"></a><a href="https://vuejs.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558" alt="vuejs" width="40" height="40"/> </a><a href="https://www/nuxt.com/" target="_blank"> <img src="https://nuxt.com/assets/design-kit/icon-green.svg" alt="nuxt" width="" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
- <a href="https://www.graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg" alt="laravel" width="40" height="40"/> </a><a href="https://www.getbootstrap.com/" target="_blank"> <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="laravel" width="40" height="40"/></a><a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a><a href="https://guides.rubyonrails.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Ruby_logo.svg" alt="php" width="40" height="40"/></a><a href="https://www.adobe.com/ph_en/products/photoshop.html" target="_blank"> <img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="php" width="40" height="40"/></a><a href="https://www.adobe.com/ph_en/products/illustrator.htmlhtml" target="_blank"> <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="php" width="40" height="40"/></a>
- 
+<a href="https://react.dev/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+<a href="https://vuejs.org/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
 
-</p>
+<a href="#">
+	<img src="https://cdn.vuetifyjs.com/docs/images/brand-kit/v-logo.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://www.typescriptlang.org/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://laravel.com/">
+	<img src="https://laravel.com/img/logomark.min.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://graphql.org/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/1/17/GraphQL_Logo.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://www.apollographql.com/docs/">
+	<img src="https://cdn.worldvectorlogo.com/logos/apollo-graphql-compact.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://www.php.net/">
+	<img src="https://www.php.net//images/logos/new-php-logo.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="#">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="#">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Adobe_Illustrator_CC_icon.svg"
+	style="width: 35px; height: 35px; margin: 2px">
+</a>
+
+<a href="https://getbootstrap.com/">
+	<img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg"
+	style="width: 35px; height: 30px; margin: 2px">
+</a>
+</div>
+
+
+#### Social Links
+<div style="display: flex">
+
+<a href="https://twitter.com/mashu_pikazo">
+	<img src="https://private-user-images.githubusercontent.com/8138585/255580473-e9e13421-89cf-445b-b2e2-e50e0864789f.svg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDEyNDczNzksIm5iZiI6MTcwMTI0NzA3OSwicGF0aCI6Ii84MTM4NTg1LzI1NTU4MDQ3My1lOWUxMzQyMS04OWNmLTQ0NWItYjJlMi1lNTBlMDg2NDc4OWYuc3ZnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQUlXTkpZQVg0Q1NWRUg1M0ElMkYyMDIzMTEyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyMzExMjlUMDgzNzU5WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MGUxMmI5YTEwOTIwODBjMGU2MWRiY2UzZjIzMzc2ZDc4ODdjZjJiZmQ4ZGZkN2YwM2JkZjAwYzQ1YzdjOTBiYiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmYWN0b3JfaWQ9MCZrZXlfaWQ9MCZyZXBvX2lkPTAifQ.bffv3AXZQt7d3CHTz4F9GryoFlHrjLuWXsb7OUmKyI8"
+	style="width: 25px; height: 30px; margin: 2px">
+</a>
+
+<a href="https://www.facebook.com/mashu.pikazo/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b9/2023_Facebook_icon.svg"
+	style="width: 30px; height: 30px; margin: 2px">
+</a>
+
+<a href="https://www.linkedin.com/in/mashiyyat-delos-santos-61264924a/">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"
+	style="width: 30px; height: 30px; margin: 2px">
+</a>
+
+</div>
+
+#### Contact & Email
+
+- *+639982205660*
+- delossantos.mash@gmail.com
+- mashmindev@gmail.com
