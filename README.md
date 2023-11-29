@@ -1,16 +1,12 @@
-### Hi there 👋
 
-<!--
-**MashiyyatDS/MashiyyatDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mashiyyat Villasenor Delos Santos
+***Full Stack Developer*** - Vue, React, Laravel, GraphQL, Typescript
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Hey there! Ready to meet a JavaScript aficionado who loves creating
+> amazing web applications? Look no further! With expertise in Vue.js
+> and Laravel, I'm all about building dynamic and interactive online
+> experiences. Whether it's crafting stunning front-end designs or
+> powering robust back-end functionalities, I've got you covered. Let's
+> team up and turn your web development dreams into a reality. Get in
+> touch today, and let's embark on an exciting journey of code and
+> creativity!
