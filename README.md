@@ -1,5 +1,3 @@
-**
-
 ### Mashiyyat Villasenor Delos Santos
 ***Full Stack Developer*** - Vue, React, Laravel, GraphQL, Typescript
 
