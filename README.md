@@ -97,4 +97,4 @@
 
 - *+639982205660*
 - delossantos.mash@gmail.com
-- mashmindev@gmail.com
+- delossantos.mashiyyat@gmail.com
