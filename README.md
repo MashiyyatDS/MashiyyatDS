@@ -31,10 +31,13 @@
  - IONIC Framework
  - LayaAir
  - CocosCreator
+ ### Version Control
+- GIT
+- Github
+- GitLab
  
 
 ## Contact & Email
-
 - *+639982205660*
 - delossantos.mash@gmail.com
 - delossantos.mashiyyat@gmail.com
